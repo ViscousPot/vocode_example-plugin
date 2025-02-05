@@ -3,12 +3,6 @@
 ## Overview
 **Example Plugin** is a boilerplate plugin designed for developers. By default, this plugin displays a popup message to the user whenever they perform a predefined operation. Developers can use this template to implement their own logic while maintaining a consistent structure.
 
-## Features
-- **Target File Path**: Select the file where the text will be inserted.
-- **Text Formatting**: Define a prefix and suffix for the text to be written.
-- **Search String**: Specify a string in the target file where the insertion will occur.
-- **Edit Offset**: Set the offset from the found string where the text will be inserted.
-
 ## Installation
 **Example Plugin** is a `Vocode Community Plugin`
 
