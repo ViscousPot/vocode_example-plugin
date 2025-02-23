@@ -17,7 +17,6 @@ What the setting defines-->
 ## Usage Example
 Perform an operation (e.g., save a file, submit a form), and a popup displays the relevant message
 - `Added "xyz"`
-- `Changed "xyz" to "abc"`
 - `Removed "xyz"`
 
 ## License
